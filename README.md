@@ -11,5 +11,10 @@ making communication more inclusive and accessible for everyone.
 
 step1 - clone this repositor in your local machine to clone use below command
 
-   git clone 
+   git clone https://github.com/therohitshelar97/SignLanguageDetectionDeepLearningProject.git
+
+Step2 - Now you have to install all requiremets/libraries
+
+   pip install requirements.txt
+   
   
